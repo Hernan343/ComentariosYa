@@ -1,0 +1,117 @@
+/* General body styling */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+textarea {
+  width: 100%;
+  height: 100px;
+  margin: 10px 0;
+  font-size: 16px;
+  padding: 10px;
+  resize: none;
+}
+
+button, a {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+button:hover, a:hover {
+  background-color: #0056b3;
+}
+
+/* Estilo para los botones de eliminar */
+form button {
+  background-color: #dc3545;
+  margin-left: 10px;
+}
+
+form button:hover {
+  background-color: #c82333;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 15px; /* Añadir espacio entre los elementos */
+}
+
+/* Estilo del botón de refrescar */
+#refresh-button {
+  margin-left: 10px;
+  background-color: #6c757d;
+}
+
+#refresh-button:hover {
+  background-color: #5a6268;
+}
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  textarea {
+    width: 100%;
+    height: 100px;
+    margin: 10px 0;
+    font-size: 16px;
+    padding: 10px;
+    resize: none;
+  }
+  
+  button, a {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+  button:hover, a:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Estilo para los botones de eliminar */
+  form button {
+    background-color: #dc3545;
+    margin-left: 10px;
+  }
+  
+  form button:hover {
+    background-color: #c82333;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  ul li {
+    margin-bottom: 15px; /* Añadir espacio entre los elementos */
+  }
+  
+  /* Estilo del botón de refrescar */
+  #refresh-button {
+    margin-left: 10px;
+    background-color: #6c757d;
+  }
+  
+  #refresh-button:hover {
+    background-color: #5a6268;
+  }
+  
